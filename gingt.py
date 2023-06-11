@@ -1,6 +1,7 @@
 import serial
 import time
 import threading
+import readline
 
 class gingt:
 
